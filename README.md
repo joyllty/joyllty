@@ -4,6 +4,7 @@ Estudante do segundo semestre de Ciência da Computação - UP
 <div>
   <a href="https://github.com/joyllty>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyllty&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
