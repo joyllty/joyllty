@@ -34,7 +34,6 @@ Estudante do terceiro semestre de Ciência da Computação - UP
 
 <div style="display: inline_block"><br>
 
-</div>
 [GitHub Profile Views Counter]: https://github.com/joyllty/github-profile-views-counter
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 
-</div>
