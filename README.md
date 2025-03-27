@@ -33,7 +33,7 @@ Estudante do terceiro semestre de Ciência da Computação - UP
 </picture>
 
 <div style="display: inline_block"><br>
-!(https://komarev.com/ghpvc/?username=joyllty)
+![profile viewer counter](https://komarev.com/ghpvc/?username=joyllty)
 </div>
 
 </div>
