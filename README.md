@@ -35,5 +35,6 @@ Estudante do terceiro semestre de Ciência da Computação - UP
 <div style="display: inline_block"><br>
 
 </div>
+[GitHub Profile Views Counter]: https://github.com/joyllty/github-profile-views-counter
 
 </div>
