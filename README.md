@@ -1,5 +1,5 @@
 ## Olá, me chamo Bruna Chapelin!
-Estudante do segundo semestre de Ciência da Computação - UP
+Estudante do terceiro semestre de Ciência da Computação - UP
 
 <div>
   <a href="https://github.com/joyllty>
