@@ -1,6 +1,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&reversal=false&style=max-width:100%)
 <p align="center">
-  ## Olá, me chamo Bruna Chapelin!
+  ## Olá, me chamo Bruna Chapelin! <br>
   Estudante do terceiro semestre de Ciência da Computação - UP
 </p>
 <div>
