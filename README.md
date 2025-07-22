@@ -1,5 +1,4 @@
-
-![1af4f96a-74f2-4135-8cfe-0306d7f5f313](https://github.com/user-attachments/assets/bde7cef1-4d2b-4f70-b4d3-da02cf193273)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,100:00f8b4&reversal=false&style=max-width:100%)
 
 ## Olá, me chamo Bruna Chapelin!
 Estudante do terceiro semestre de Ciência da Computação - UP
