@@ -1,8 +1,8 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&reversal=false&style=max-width:100%)
-
-## Olá, me chamo Bruna Chapelin!
-Estudante do terceiro semestre de Ciência da Computação - UP
-
+<p align="center">
+  ## Olá, me chamo Bruna Chapelin!
+  Estudante do terceiro semestre de Ciência da Computação - UP
+</p>
 <div>
   <a href="https://github.com/joyllty>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=vue-dark"/>
@@ -36,6 +36,6 @@ Estudante do terceiro semestre de Ciência da Computação - UP
 
 <div style="display: inline_block"><br>
 
-
+![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&reversal=true&section=footer)
 
 
