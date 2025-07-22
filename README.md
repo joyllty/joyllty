@@ -1,8 +1,9 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&reversal=false&style=max-width:100%)
-<p align="center">
-  ## Olá, me chamo Bruna Chapelin! <br>
-  Estudante do terceiro semestre de Ciência da Computação - UP
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&duration=3500&pause=800&color=00FFB9&center=true&vCenter=true&width=435&lines=Ol%C3%A1+mundo!+;Me+chamo+Bruna+Chapelin+%3A)" alt="Typing SVG" /></a>
+
+Estudante do quarto semestre de Ciência da Computação - UP
+
 <div>
   <a href="https://github.com/joyllty>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=vue-dark"/>
