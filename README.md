@@ -6,40 +6,59 @@
   </a>
 </p>
 
-Estudante do quarto semestre de Ciência da Computação - UP
+<p align="center">
+  Estudante do quarto semestre de Ciência da Computação!
+</p>
 
-<div>
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">💻 Tecnologias</h2>
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img alt="Bruna-C" height="40" width=50" src="https://skillicons.dev/icons?i=c"/>
+  <img alt="Bruna-HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
+  <img alt="Bruna-CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css"/>
+  <img alt="Bruna-JS" height="40" width="50" src="https://skillicons.dev/icons?i=js"/>
+  <img alt="Bruna-SQL" height="40" width="50" src="https://skillicons.dev/icons?i=mysql"/>
+  <img alt="Bruna-Java" height="40" width="50" src="https://skillicons.dev/icons?i=java"/>
+  <img alt="Bruna-PY" height="40" width="50" src="https://skillicons.dev/icons?i=py"/>
+</div>
+
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">📊 Estatísticas</h2>
+</div>
+
+<div align="center" dir="auto">
   <a href="https://github.com/joyllty>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyllty&show_icons=true&theme=vue-dark"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=joyllty&show_icons=true&count_private=true&rank_icon=github&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=joyllty&show_icons=true&count_private=true&rank_icon=github&theme=vue-dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyllty&layout=compact&langs_count=16&theme=vue-dark"/>
+</div> <br>
+    
+
+    
+<div class="markdown-heading" dir="auto" align="center">
+  <h2 class="heading-element" dir="auto">Contato</h2>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bruna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Bruna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Bruna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="Bruna-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</div>
-
-##
-
-<div> <!-- badges -->
-  <a href="https://www.instagram.com/joyllty" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunaachapelin@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-chapelin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"> <!-- badges -->
+ 
+  <a href="https://www.linkedin.com/in/bruna-chapelin/" target="_blank">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
+  </a>
+  <a href = "mailto:brunaachapelin@gmailcom">
+    <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank">
+  </a>
   
-         
+</div>
+<!--        
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyllty/joyllty/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyllty/joyllty/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joyllty/joyllty/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
-<div style="display: inline_block"><br>
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&reversal=true&section=footer)
 
