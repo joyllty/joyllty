@@ -16,6 +16,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <img alt="Bruna-C" height="40" width=50" src="https://skillicons.dev/icons?i=c"/>
+  <img alt="Bruna-C#" height="40" width=50" src="https://skillicons.dev/icons?i=cs"/>
   <img alt="Bruna-HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
   <img alt="Bruna-CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css"/>
   <img alt="Bruna-JS" height="40" width="50" src="https://skillicons.dev/icons?i=js"/>
