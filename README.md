@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="left">
-  Estudante de Ciência da Computação
-</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">💻 Tecnologias</h2>
