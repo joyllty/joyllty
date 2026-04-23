@@ -6,8 +6,8 @@
   </a>
 </p>
 
-<p align="center">
-  Estudante do quarto semestre de Ciência da Computação!
+<p align="left">
+  Estudante de Ciência da Computação
 </p>
 
 <div class="markdown-heading" dir="auto">
