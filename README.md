@@ -7,11 +7,13 @@
 </p>
 
 
+<!--    
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">💻 Tecnologias</h2>
 </div>
 
-<div style="display: inline" align="center"><br>
+
+<div style="display: inline_block" align="center"><br>
   <img alt="Bruna-C" height="40" width=50" src="https://skillicons.dev/icons?i=c"/>
   <img alt="Bruna-C#" height="40" width=50" src="https://skillicons.dev/icons?i=cs"/>
   <img alt="Bruna-HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
@@ -21,6 +23,8 @@
   <img alt="Bruna-Java" height="40" width="50" src="https://skillicons.dev/icons?i=java"/>
   <img alt="Bruna-PY" height="40" width="50" src="https://skillicons.dev/icons?i=py"/>
 </div>
+-->
+
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">📊 Estatísticas</h2>
