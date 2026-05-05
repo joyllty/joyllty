@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=3500&pause=800&color=00BA87&center=true&width=435&lines=Ol%C3%A1+mundo!;Me+chamo+Bruna+Chapelin+:)" />
 </p>
 
----
+
 
 ## 💻 Tecnologias
 
@@ -19,7 +19,7 @@
   <img height="40" src="https://skillicons.dev/icons?i=py"/>
 </p>
 
----
+
 
 ## 📊 Estatísticas
 
@@ -28,7 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyllty&layout=compact&langs_count=8&theme=vue-dark"/>
 </p>
 
----
 
 ## 📫 Contato
 
@@ -41,6 +40,5 @@
   </a>
 </p>
 
----
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0083f8,70:00f8b4&section=footer)
